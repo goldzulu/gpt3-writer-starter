@@ -79,13 +79,13 @@ const Home = () => {
       </div>
       <div className="badge-container grow">
         <a
-          href="https://buildspace.so/builds/ai-writer"
+          href="https://interviewbot.com"
           target="_blank"
           rel="noreferrer"
         >
           <div className="badge">
             <Image src={interviewbotLogo} alt="interviewbot logo" />
-            <p>build with InterviewBot GPT3 AI Engine</p>
+            <p>Powered by InterviewBot GPT3 AI Engine</p>
           </div>
         </a>
       </div>
